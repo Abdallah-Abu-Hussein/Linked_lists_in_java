@@ -8,7 +8,7 @@ public class Main {
         newStack.display_Stack();
         System.out.println();
         newStack.pop();
-       // newStack.pop();
+         // newStack.pop();
         //newStack.pop();
         newStack.display_Stack();
 
